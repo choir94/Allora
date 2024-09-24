@@ -137,5 +137,8 @@ wget https://raw.githubusercontent.com/choir94/Allora/refs/heads/main/upgrade.sh
 chmod +x upgrade.sh
 ./upgrade.sh
 
-echo "Installation complete! You can check your wallet here: http://worker-tx.nodium.xyz/"
+echo "Setup complete. check Point Allora setelah 2x24 jam."
+echo "Join diskusi"
+echo "Subscribe: https://t.me/airdrop_node"
+echo "Installation Succes! Cek tx: http://worker-tx.nodium.xyz/"
 
