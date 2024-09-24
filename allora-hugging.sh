@@ -38,6 +38,11 @@ docker compose down -v
 docker container prune -f
 cd $HOME && rm -rf allora-huggingface-walkthrough
 
+# Logo
+curl -s https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/logo.sh | bash
+
+sleep 2
+
 # Clone Allora repository
 echo "Cloning Allora repository..."
 git clone https://github.com/allora-network/allora-huggingface-walkthrough
